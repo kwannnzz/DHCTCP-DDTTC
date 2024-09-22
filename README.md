@@ -36,7 +36,7 @@ Một số biện pháp cụ thể có thể bao gồm:
 
 Tóm lại, việc tăng cường giám sát quản trị công ty là cần thiết để ngăn chặn các giao dịch “self-dealing” và “tunneling” tại Coteccons. Các biện pháp minh bạch hóa, kiểm toán độc lập, và thiết lập quy trình quản trị rõ ràng sẽ giúp Coteccons duy trì sự minh bạch và bảo vệ quyền lợi của các cổ đông nhỏ lẻ cũng như các bên liên quan khác.
 
-#2
+# 2
 
 ## 1. **Phân tích nguồn gốc xảy ra xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
