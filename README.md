@@ -1,4 +1,5 @@
 # 1
+
 ## 1. **Phân tích nguồn gốc xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
 Xung đột lợi ích tại Coteccons bắt nguồn từ sự thiết lập các công ty con như Ricons, Unicons trong hệ sinh thái Coteccons, với các lãnh đạo cao cấp nắm giữ cổ phần hoặc vị trí quản lý tại các công ty này. Theo thông tin từ báo cáo, một số thành viên trong ban lãnh đạo Coteccons, như ông Nguyễn Bá Dương (Chủ tịch HĐQT), đồng thời là cổ đông sáng lập và nắm giữ cổ phần tại nhiều công ty khác như Newtecons (49%) và BM Windows (60%). Những công ty này không chỉ là nhà thầu phụ của Coteccons mà còn cạnh tranh trực tiếp với Coteccons trong cùng ngành xây dựng và thi công.
@@ -34,7 +35,9 @@ Một số biện pháp cụ thể có thể bao gồm:
 - **Tăng cường vai trò của hội đồng quản trị độc lập:** Hội đồng quản trị cần có sự tham gia của các thành viên độc lập để đảm bảo rằng các quyết định về quản trị và chiến lược của công ty không bị ảnh hưởng bởi các lợi ích cá nhân của các thành viên ban điều hành.
 
 Tóm lại, việc tăng cường giám sát quản trị công ty là cần thiết để ngăn chặn các giao dịch “self-dealing” và “tunneling” tại Coteccons. Các biện pháp minh bạch hóa, kiểm toán độc lập, và thiết lập quy trình quản trị rõ ràng sẽ giúp Coteccons duy trì sự minh bạch và bảo vệ quyền lợi của các cổ đông nhỏ lẻ cũng như các bên liên quan khác.
+
 #2
+
 ## 1. **Phân tích nguồn gốc xảy ra xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
 Xung đột lợi ích tại Coteccons được thể hiện rõ nét qua hai nhóm cổ đông chính: nhóm cổ đông sáng lập (gồm ban lãnh đạo cũ) và nhóm cổ đông chiến lược mới, mà tiêu biểu là Kusto. Xung đột này nảy sinh từ việc Coteccons thành lập và duy trì các công ty con trong hệ sinh thái, đặc biệt là Ricons và Unicons. 
@@ -74,7 +77,9 @@ Việc không công khai đầy đủ thông tin về các giao dịch liên qua
 ---
 
 Tóm lại, sự xung đột lợi ích tại Coteccons có thể được giải quyết thông qua các biện pháp minh bạch hóa và cải thiện giám sát quản trị công ty. Những biện pháp này không chỉ giúp bảo vệ quyền lợi của các cổ đông mà còn giúp Coteccons duy trì uy tín và ổn định trên thị trường.
+
 # 3
+
 ## 1. **Phân tích nguồn gốc xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
 Xung đột lợi ích tại Coteccons chủ yếu bắt nguồn từ sự hiện diện của hai nhóm cổ đông có mục tiêu và lợi ích khác nhau: nhóm cổ đông sáng lập (ban lãnh đạo) và nhóm cổ đông chiến lược mới (điển hình là Kusto). Điều này càng trở nên rõ ràng hơn khi Coteccons thiết lập các công ty con như Ricons, Unicons, tạo ra hệ sinh thái các công ty vệ tinh. Những công ty này đóng vai trò là nhà thầu phụ nhưng đồng thời cũng cạnh tranh trực tiếp với Coteccons trong cùng ngành xây dựng và thi công.
