@@ -1,6 +1,4 @@
-# **Câu hỏi và Trả lời Chương 4**
-
-## **Đúng hay Sai**
+# **Đúng hay Sai**
 
 1. Mặc dù có mối tương quan giữa một số điều kiện kinh tế và hoạt động M&A, các học giả đã xem xét sự xuất hiện của các làn sóng M&A là một trong mười câu hỏi chưa được giải quyết quan trọng nhất trong kinh tế tài chính.
 
@@ -14,7 +12,7 @@
 
 6. Việc giữ quan điểm rằng các cơn sốt thị trường luôn thúc đẩy hoạt động M&A là phù hợp với giả định rằng các nhà quản lý và thị trường đều hợp lý.
 
-### **Đáp án cho các câu hỏi Đúng hay Sai**
+# **Đáp án cho các câu hỏi Đúng hay Sai**
 
 1. Đúng.
 
@@ -28,7 +26,7 @@
 
 6. Sai: Niềm tin rằng các cơn sốt thị trường luôn thúc đẩy hoạt động M&A là phù hợp với giả định rằng các nhà quản lý và thị trường đều không hợp lý.
 
-## **Trắc nghiệm: Vui lòng chọn câu trả lời đúng nhất.**
+# **Trắc nghiệm: Vui lòng chọn câu trả lời đúng nhất.**
 
 1. Làn sóng 1, từ năm 1895 đến năm 1904, được đặc trưng bởi:
 
@@ -104,7 +102,7 @@
 
     d. I, II & III
 
-### **Đáp án cho các câu hỏi trắc nghiệm**
+# **Đáp án cho các câu hỏi trắc nghiệm**
 
 1. b
 
@@ -116,7 +114,7 @@
 
 5. a
 
-## **Câu hỏi ngắn**
+# **Câu hỏi ngắn**
 
 1. Một số đặc điểm chung giữa các làn sóng sáp nhập từ năm 1895 đến năm 2000 là gì?
 
