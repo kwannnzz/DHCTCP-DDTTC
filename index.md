@@ -1,6 +1,6 @@
 <h1 style="font-size: 0; visibility: hidden">CASE STUDY</h1>
 
-# 1
+<h1 id="1" style="text-align: center; font-size: xxx-large; font-weight: bolder;">1</h1>
 
 ## 1. **Phân tích nguồn gốc xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
@@ -40,7 +40,7 @@ Tóm lại, việc tăng cường giám sát quản trị công ty là cần thi
 
 ---
 
-# 2
+<h1 id="2" style="text-align: center; font-size: xxx-large; font-weight: bolder;">2</h1>
 
 ## 1. **Phân tích nguồn gốc xảy ra xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
@@ -83,7 +83,7 @@ Tóm lại, sự xung đột lợi ích tại Coteccons có thể được giả
 
 ---
 
-# 3
+<h1 id="3" style="text-align: center; font-size: xxx-large; font-weight: bolder;">3</h1>
 
 ## 1. **Phân tích nguồn gốc xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
 
@@ -129,7 +129,7 @@ Sự xung đột lợi ích tại Coteccons đã tạo ra những hậu quả ng
 
 ---
 
-# 4
+<h1 id="4" style="text-align: center; font-size: xxx-large; font-weight: bolder;">4</h1>
 
 ## **Phần 1: Tổng quan**
 
@@ -181,7 +181,7 @@ Mâu thuẫn tại Coteccons bắt nguồn từ sự chia rẽ giữa nhóm cổ
 
 ---
 
-# 5
+<h1 id="5" style="text-align: center; font-size: xxx-large; font-weight: bolder;">5</h1>
 
 ## **Phần 1: Tổng quan**
 
