@@ -1,4 +1,4 @@
-# CASE STUDY
+<h1 style="visibility: hidden">CASE STUDY</h1>
 
 # 1
 
