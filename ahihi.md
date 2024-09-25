@@ -12,7 +12,7 @@
 
 6. Việc giữ quan điểm rằng các cơn sốt thị trường luôn thúc đẩy hoạt động M&A là phù hợp với giả định rằng các nhà quản lý và thị trường đều hợp lý.
 
-# **Đáp án cho các câu hỏi Đúng hay Sai**
+## **Đáp án cho các câu hỏi Đúng hay Sai**
 
 1. Đúng.
 
@@ -102,7 +102,7 @@
 
     d. I, II & III
 
-# **Đáp án cho các câu hỏi trắc nghiệm**
+## **Đáp án cho các câu hỏi trắc nghiệm**
 
 1. b
 
