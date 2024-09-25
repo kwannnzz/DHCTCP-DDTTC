@@ -235,3 +235,59 @@ Việc áp dụng các tiêu chuẩn quốc tế về quản trị công ty, ch�
 Xung đột lợi ích tại Coteccons bắt nguồn từ việc thiếu minh bạch và sự phân chia quyền lực
 
  không rõ ràng giữa các cổ đông sáng lập và cổ đông chiến lược mới. Các hành vi "Self-dealing" và "Tunneling" đã làm tổn hại đến lợi ích của công ty và cổ đông, đồng thời vi phạm các quy định về quản trị doanh nghiệp. Tuy nhiên, với việc cải thiện chất lượng giám sát, tăng cường tính minh bạch, và áp dụng các tiêu chuẩn quản trị quốc tế, Coteccons có thể giải quyết các vấn đề này và khôi phục lòng tin của nhà đầu tư, giúp công ty phát triển bền vững trong tương lai.
+
+---
+
+<h1 id="6" style="text-align: center; font-size: xxx-large; font-weight: bolder;">6</h1>
+
+## **Phần 1: Tổng quan**
+
+**Giới thiệu về Coteccons và hệ sinh thái**
+
+Công ty cổ phần xây dựng Coteccons (Coteccons) được biết đến như một trong những doanh nghiệp xây dựng hàng đầu tại Việt Nam. Coteccons có mạng lưới các công ty con và liên kết, được gọi là "hệ sinh thái Coteccons", bao gồm những công ty như Ricons, Unicons. Các công ty này không chỉ là nhà thầu phụ cho Coteccons mà còn tham gia trực tiếp vào các dự án xây dựng độc lập.
+
+Từ khi thành lập, Coteccons đã gặt hái nhiều thành công trong các dự án lớn và phát triển mạnh mẽ, đặc biệt trong giai đoạn 2011-2017, khi giá cổ phiếu của Coteccons tăng trưởng mạnh, đạt đỉnh hơn 245.000 đồng vào năm 2017. Tuy nhiên, từ năm 2018, công ty đã đối diện với một loạt xung đột nội bộ và tranh chấp giữa các nhóm cổ đông, gây ảnh hưởng nghiêm trọng đến giá cổ phiếu và uy tín của doanh nghiệp.
+
+**Nguồn gốc mâu thuẫn**
+
+Xung đột giữa nhóm cổ đông sáng lập, đứng đầu là ông Nguyễn Bá Dương, và nhóm cổ đông chiến lược mới do Kusto nắm giữ phần lớn cổ phần bắt đầu xuất hiện từ năm 2018. Mâu thuẫn chủ yếu xoay quanh việc các lãnh đạo Coteccons nắm giữ các vị trí quản lý quan trọng tại các công ty con như Ricons, Unicons, gây ra xung đột lợi ích. Kusto lo ngại rằng các lợi ích của Coteccons đang bị chuyển hướng sang các công ty con, nơi ban lãnh đạo có quyền lợi trực tiếp.
+
+**Giai đoạn phát triển của mâu thuẫn**
+
+Sự phát triển của xung đột lợi ích đã leo thang qua nhiều giai đoạn. Ban đầu, các cổ đông lớn và ban lãnh đạo Coteccons đã bất đồng về việc sáp nhập các công ty con vào Coteccons. Nhóm Kusto phản đối việc này vì cho rằng việc sáp nhập không mang lại lợi ích cho Coteccons mà chỉ có lợi cho các lãnh đạo có liên quan trực tiếp. Những cáo buộc về self-dealing và tunneling đã được nhóm Kusto đưa ra, cùng với các yêu cầu về việc tăng cường giám sát quản trị và thay đổi ban lãnh đạo.
+
+## **Phần 2: Nhận diện và phân tích các hành vi vi phạm**
+
+**Self-dealing và tunneling**
+
+Self-dealing là hành vi mà lãnh đạo sử dụng quyền lực và quyền hạn của mình để thực hiện các giao dịch có lợi cho bản thân hoặc các công ty mà họ có liên quan, gây tổn hại đến lợi ích chung của công ty và các cổ đông khác. Trong trường hợp Coteccons, các lãnh đạo cấp cao, bao gồm ông Nguyễn Bá Dương, Chủ tịch HĐQT, và các nhân sự chủ chốt khác đã đồng thời giữ các vị trí quản lý tại các công ty như Ricons và Unicons. Điều này dẫn đến nguy cơ self-dealing, khi các lợi ích của Coteccons bị chuyển hướng sang các công ty con nơi lãnh đạo có quyền lợi cá nhân.
+
+Tunneling, một hành vi tương tự, là việc chuyển giá trị từ công ty mẹ sang các công ty liên kết hoặc công ty con mà các lãnh đạo có cổ phần, thông qua các giao dịch không công bằng hoặc vi phạm đạo đức. Ricons và Unicons, hai công ty con trong hệ sinh thái Coteccons, đã phát triển mạnh mẽ từ năm 2015 đến 2019, trong khi Coteccons lại bắt đầu chững lại từ năm 2017. Nhóm Kusto cáo buộc rằng lợi nhuận từ Coteccons đã bị chuyển hướng sang các công ty con thông qua các giao dịch mờ ám và không minh bạch.
+
+**Vi phạm pháp luật và đạo đức**
+
+Cụ thể, các báo cáo từ phía cổ đông chiến lược chỉ ra rằng nhiều giao dịch giữa Coteccons và các công ty con đã không được công bố minh bạch. Ban lãnh đạo Coteccons bị cáo buộc đã chỉnh sửa và che giấu các báo cáo tài chính, vi phạm quy định về quản trị công ty của Luật Doanh nghiệp Việt Nam. Những hành vi này không chỉ làm giảm lòng tin của các cổ đông mà còn đe dọa tính minh bạch và công bằng của công ty trên thị trường.
+
+**Tác động đến cổ đông và nhà đầu tư**
+
+Hậu quả của những hành vi self-dealing và tunneling đã làm giá trị cổ phiếu của Coteccons giảm mạnh, từ mức đỉnh 245.000 đồng xuống chỉ còn 1/5 giá trị trước đó. Điều này đã gây tổn hại không nhỏ đến các cổ đông nhỏ lẻ và nhà đầu tư, những người không thể kiểm soát được các quyết định của ban lãnh đạo.
+
+## **Phần 3: Giải pháp**
+
+**Tăng cường chất lượng giám sát quản trị công ty**
+
+Để ngăn chặn các hành vi self-dealing và tunneling trong tương lai, Coteccons cần áp dụng một loạt các biện pháp nhằm tăng cường giám sát và cải thiện chất lượng quản trị công ty.
+
+1. **Minh bạch hóa thông tin**: Coteccons cần tuân thủ chặt chẽ các quy định về công bố thông tin theo Luật Doanh nghiệp và các quy định quản trị công ty. Tất cả các giao dịch giữa Coteccons và các công ty liên kết như Ricons và Unicons cần được công khai rõ ràng trong các báo cáo tài chính để cổ đông và nhà đầu tư có thể đánh giá chính xác rủi ro【5:18†source】.
+
+2. **Tăng cường sự độc lập của Hội đồng quản trị (HĐQT)**: HĐQT của Coteccons cần bao gồm các thành viên độc lập, không có lợi ích liên quan đến các công ty con hoặc các đối thủ cạnh tranh. Điều này sẽ giúp đảm bảo rằng các quyết định chiến lược được đưa ra dựa trên lợi ích của Coteccons, thay vì lợi ích cá nhân của lãnh đạo.
+
+3. **Kiểm soát nội bộ mạnh mẽ hơn**: Coteccons cần xây dựng và duy trì một hệ thống kiểm soát nội bộ nghiêm ngặt để giám sát các giao dịch với các bên liên quan. Hệ thống này nên được kiểm toán định kỳ bởi các đơn vị kiểm toán độc lập để đảm bảo tính minh bạch và trách nhiệm giải trình.
+
+4. **Tăng cường vai trò của Ban kiểm soát (BKS)**: BKS cần được trao quyền giám sát chặt chẽ hơn đối với hoạt động của ban lãnh đạo, bao gồm quyền yêu cầu kiểm toán độc lập đối với các giao dịch có khả năng gây ra xung đột lợi ích. Đồng thời, BKS cũng cần đảm bảo rằng các báo cáo được trình bày đầy đủ và trung thực cho cổ đông.
+
+5. **Đào tạo và nâng cao nhận thức về đạo đức doanh nghiệp**: Coteccons nên tổ chức các chương trình đào tạo cho toàn thể lãnh đạo và nhân viên về đạo đức doanh nghiệp, đặc biệt là các vấn đề liên quan đến xung đột lợi ích và self-dealing. Điều này sẽ giúp nâng cao ý thức tuân thủ pháp luật và đạo đức trong toàn bộ công ty.
+
+## **Phần 4: Kết luận**
+
+Những xung đột lợi ích tại Coteccons, bao gồm self-dealing và tunneling, đã gây ra những hậu quả nghiêm trọng cho công ty và các cổ đông. Để giải quyết các vấn đề này, Coteccons cần thực hiện một loạt các biện pháp tăng cường giám sát quản trị công ty, từ việc minh bạch hóa thông tin đến tăng cường kiểm soát nội bộ và đào tạo về đạo đức doanh nghiệp. Việc thực hiện các biện pháp này không chỉ giúp Coteccons cải thiện uy tín mà còn bảo vệ quyền lợi của các cổ đông và nhà đầu tư trong tương lai.
