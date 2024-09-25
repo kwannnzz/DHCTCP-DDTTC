@@ -36,6 +36,8 @@ Một số biện pháp cụ thể có thể bao gồm:
 
 Tóm lại, việc tăng cường giám sát quản trị công ty là cần thiết để ngăn chặn các giao dịch “self-dealing” và “tunneling” tại Coteccons. Các biện pháp minh bạch hóa, kiểm toán độc lập, và thiết lập quy trình quản trị rõ ràng sẽ giúp Coteccons duy trì sự minh bạch và bảo vệ quyền lợi của các cổ đông nhỏ lẻ cũng như các bên liên quan khác.
 
+---
+
 # 2
 
 ## 1. **Phân tích nguồn gốc xảy ra xung đột lợi ích giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới tại Coteccons:**
@@ -74,9 +76,10 @@ Việc không công khai đầy đủ thông tin về các giao dịch liên qua
 
 - **Thiết lập quy trình xử lý xung đột lợi ích:** Coteccons cần xây dựng các quy trình cụ thể để xử lý xung đột lợi ích, trong đó yêu cầu các lãnh đạo công bố đầy đủ các quyền lợi của họ tại các công ty con và tránh tham gia vào các quyết định liên quan đến các công ty này. Điều này sẽ đảm bảo rằng không có sự thiên vị trong việc phân bổ dự án hoặc lợi nhuận.
 
----
 
 Tóm lại, sự xung đột lợi ích tại Coteccons có thể được giải quyết thông qua các biện pháp minh bạch hóa và cải thiện giám sát quản trị công ty. Những biện pháp này không chỉ giúp bảo vệ quyền lợi của các cổ đông mà còn giúp Coteccons duy trì uy tín và ổn định trên thị trường.
+
+---
 
 # 3
 
@@ -118,8 +121,58 @@ Coteccons cần xây dựng một bộ quy tắc quản lý xung đột lợi í
 **4. Tăng cường vai trò của hội đồng quản trị độc lập:**
 Hội đồng quản trị nên được bổ sung các thành viên độc lập không có mối quan hệ lợi ích với ban lãnh đạo. Vai trò của họ là giám sát và đảm bảo rằng các quyết định chiến lược được thực hiện công bằng và hợp lý. Các thành viên độc lập này sẽ đại diện cho lợi ích của cổ đông và giúp ngăn chặn tình trạng "self-dealing" hoặc "tunneling".
 
----
-
 ## Kết luận:
 
 Sự xung đột lợi ích tại Coteccons đã tạo ra những hậu quả nghiêm trọng về niềm tin của cổ đông và làm suy yếu giá trị cổ phiếu. Các giao dịch tự phục vụ như "self-dealing" và "tunneling" đã gây tổn hại đến quyền lợi của công ty và cổ đông nhỏ lẻ. Tuy nhiên, với việc thực hiện các biện pháp minh bạch hóa, kiểm toán độc lập, và thiết lập quy trình giám sát chặt chẽ
+
+---
+
+# 4
+
+## **Phần 1: Tổng quan**
+
+### 1.1 Giới thiệu về các công ty
+Coteccons (Công ty Cổ phần Xây dựng Coteccons) là một trong những công ty xây dựng hàng đầu tại Việt Nam, nổi tiếng với các dự án lớn và năng lực thi công mạnh mẽ. Trong quá trình phát triển, Coteccons đã thiết lập một hệ sinh thái gồm các công ty con và liên kết như Ricons, Unicons, và BM Windows. Các công ty này đều hoạt động trong lĩnh vực xây dựng, thiết kế và cung cấp dịch vụ liên quan, thường xuyên tham gia vào các dự án mà Coteccons làm tổng thầu.
+
+- **Ricons**: Là một trong những công ty con của Coteccons, hoạt động trong lĩnh vực tổng thầu và thi công các dự án xây dựng. Ricons từng là đối tác chiến lược của Coteccons nhưng dần trở thành đối thủ cạnh tranh trực tiếp.
+- **Unicons**: Là một công ty con khác trong hệ sinh thái của Coteccons, tập trung vào các dự án thi công và thiết kế xây dựng, đóng vai trò là nhà thầu phụ trong nhiều dự án lớn.
+- **BM Windows**: Công ty cung cấp các giải pháp cửa và mặt dựng cho các công trình xây dựng, cũng thuộc hệ sinh thái của Coteccons và có sự tham gia cổ phần của các lãnh đạo cấp cao.
+
+### 1.2 Nguồn gốc của mâu thuẫn
+Mâu thuẫn tại Coteccons bắt nguồn từ sự chia rẽ giữa nhóm cổ đông sáng lập và nhóm cổ đông chiến lược mới. Nhóm cổ đông sáng lập bao gồm những cá nhân đã xây dựng Coteccons từ những ngày đầu tiên, đặc biệt là ông Nguyễn Bá Dương, Chủ tịch HĐQT. Trong khi đó, nhóm cổ đông chiến lược mới, đại diện bởi Kusto – một quỹ đầu tư đến từ Singapore, đã tham gia vào Coteccons thông qua các đợt phát hành cổ phiếu chiến lược từ năm 2012. Ban đầu, cả hai nhóm cùng chia sẻ mục tiêu phát triển công ty, nhưng sự khác biệt về chiến lược và quyền lợi đã khiến mối quan hệ đối tác này nhanh chóng trở nên căng thẳng.
+
+### 1.3 Các giai đoạn chính của mâu thuẫn
+- **Giai đoạn phát triển ban đầu (2012-2017)**: Trong giai đoạn này, Coteccons phát triển mạnh mẽ dưới sự lãnh đạo của ông Nguyễn Bá Dương, giá trị cổ phiếu tăng cao và công ty đạt được nhiều thành tựu lớn trong ngành xây dựng. Các công ty con như Ricons và Unicons đóng góp tích cực vào sự phát triển chung.
+- **Giai đoạn căng thẳng nội bộ (2018-2020)**: Mâu thuẫn giữa các cổ đông sáng lập và cổ đông chiến lược bắt đầu bùng phát khi Kusto công khai chỉ trích ban lãnh đạo Coteccons về vấn đề xung đột lợi ích, đặc biệt là việc quản lý các công ty con như Ricons. Kết quả là giá cổ phiếu CTD lao dốc và nhiều mâu thuẫn bị phơi bày ra công chúng.
+- **Giai đoạn chuyển giao quyền lực (2020-nay)**: Ông Nguyễn Bá Dương từ chức Chủ tịch HĐQT và bán phần lớn cổ phiếu của mình tại Coteccons, đánh dấu sự kết thúc vai trò lãnh đạo của ông và mở ra một kỷ nguyên mới cho công ty dưới sự kiểm soát của các cổ đông chiến lược mới.
+
+## **Phần 2: Nhận diện và phân tích các hành vi**
+
+### 2.1 Hành vi "Self-dealing"
+"Self-dealing" là hiện tượng khi các nhà quản lý hoặc cổ đông lớn thực hiện các giao dịch có lợi cho bản thân mà không cân nhắc đến lợi ích của công ty hay các cổ đông khác. Tại Coteccons, nhiều giao dịch với các công ty con như Ricons và Unicons đã bị nghi ngờ là có yếu tố "Self-dealing". Các quản lý cấp cao của Coteccons như ông Nguyễn Bá Dương và các thành viên trong gia đình ông có cổ phần lớn tại các công ty này, và những giao dịch giữa Coteccons và các công ty con có thể tạo điều kiện cho họ lợi dụng tài sản và nguồn lực của Coteccons để làm giàu cá nhân.
+
+Một ví dụ điển hình là việc Coteccons sử dụng Ricons làm nhà thầu phụ trong các dự án lớn, trong khi Ricons cũng là đối thủ cạnh tranh trực tiếp của Coteccons. Sự thiếu minh bạch trong việc lựa chọn nhà thầu phụ và quản lý các giao dịch này đã làm dấy lên nghi ngờ về sự ưu ái và xung đột lợi ích.
+
+### 2.2 Hành vi "Tunneling"
+"Tunneling" là hiện tượng khi các cổ đông lớn hoặc ban quản lý chuyển tài sản hoặc lợi nhuận từ công ty mẹ sang các công ty mà họ có lợi ích cá nhân. Trong trường hợp của Coteccons, các giao dịch giữa công ty và các công ty con như Ricons, Unicons, và BM Windows đã bị nghi ngờ là các hành vi "Tunneling", khi lợi nhuận từ các hợp đồng xây dựng có thể đã được chuyển sang các công ty này thông qua việc phân bổ tài nguyên và dự án.
+
+### 2.3 Vi phạm pháp luật và đạo đức
+Các vi phạm pháp luật tại Coteccons liên quan đến việc không công bố thông tin minh bạch và việc điều chỉnh, chỉnh sửa báo cáo tài chính. Ông Luis Fernando Garcia Agraz, Trưởng ban kiểm soát (BKS) của Coteccons, đã gửi kiến nghị lên Ủy ban Chứng khoán Nhà nước về hàng loạt vi phạm của ban lãnh đạo công ty, bao gồm việc cắt xén, chỉnh sửa các báo cáo của BKS và không công bố sở hữu chéo của các lãnh đạo trong các công ty liên kết như Ricons và BM Windows. Điều này đã vi phạm quy định tại Điều 159, Luật Doanh nghiệp Việt Nam năm 2014, và làm tổn hại quyền lợi của cổ đông nhỏ lẻ và nhà đầu tư.
+
+## **Phần 3: Giải pháp**
+
+### 3.1 Tăng cường tính minh bạch
+Minh bạch là yếu tố quan trọng để giảm thiểu các hành vi vi phạm pháp luật và xung đột lợi ích. Coteccons cần tuân thủ chặt chẽ các quy định về công bố thông tin đối với các giao dịch với các bên liên quan. Đặc biệt, cần phải công khai rõ ràng về quyền sở hữu và các mối quan hệ giữa ban lãnh đạo Coteccons và các công ty con như Ricons, Unicons, BM Windows.
+
+### 3.2 Cải thiện chất lượng giám sát
+Một hệ thống kiểm soát nội bộ mạnh mẽ có thể giúp hạn chế các giao dịch "Self-dealing" và "Tunneling". Hội đồng quản trị (HĐQT) cần đảm bảo rằng các giao dịch với các bên liên quan được phê duyệt bởi các thành viên độc lập, những người không có mối quan hệ lợi ích với các bên liên quan. Ngoài ra, việc thiết lập một ủy ban kiểm toán độc lập có thể giúp giám sát chặt chẽ hơn các giao dịch này.
+
+### 3.3 Tăng cường sự tham gia của cổ đông độc lập
+Việc bổ sung các thành viên HĐQT độc lập, những người không liên quan đến các giao dịch nội bộ, sẽ giúp cân bằng quyền lực và giảm thiểu nguy cơ xung đột lợi ích. Các cổ đông độc lập có thể đóng vai trò quan trọng trong việc đưa ra các quyết định không thiên vị và bảo vệ quyền lợi của các cổ đông nhỏ lẻ.
+
+### 3.4 Áp dụng tiêu chuẩn quản trị công ty quốc tế
+Coteccons có thể học hỏi từ các tiêu chuẩn quản trị công ty tốt nhất trên thế giới như OECD Principles of Corporate Governance. Các nguyên tắc này nhấn mạnh vào sự minh bạch, trách nhiệm giải trình và quyền lợi của cổ đông. Việc áp dụng các tiêu chuẩn này sẽ giúp Coteccons cải thiện chất lượng quản trị và hạn chế các hành vi vi phạm pháp luật.
+
+## **Phần 4: Kết luận**
+
+Mâu thuẫn tại Coteccons bắt nguồn từ sự chia rẽ giữa nhóm cổ đông sáng lập và cổ đông chiến lược mới, dẫn đến các hành vi "Self-dealing" và "Tunneling". Những vi phạm này không chỉ gây tổn hại cho các cổ đông nhỏ lẻ mà còn làm giảm uy tín của công ty trên thị trường. Tuy nhiên, với các giải pháp như tăng cường minh bạch, cải thiện chất lượng giám sát, và áp dụng các tiêu chuẩn quốc tế, Coteccons có thể khôi phục niềm tin của các nhà đầu tư và tiếp tục phát triển bền vững trong tương lai.
