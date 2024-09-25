@@ -1,4 +1,4 @@
-<h1 style="visibility: hidden">CASE STUDY</h1>
+<h1 style="font-size: 0; visibility: hidden">CASE STUDY</h1>
 
 # 1
 
